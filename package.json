@@ -1,0 +1,9 @@
+{
+  "name": "simple-crud-no-delete",
+  "version": "1.0.0",
+  "description": "Simple CRUD app (Create, Read, Update) without delete",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
